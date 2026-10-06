@@ -1,0 +1,28 @@
+Package: universe-os
+Architecture: all
+Version: 0.2.0
+Priority: optional
+Section: x11
+Maintainer: Universe OS <73166182+ItsAMeFork@users.noreply.github.com>
+Installed-Size: 1340
+Depends: python3 (>= 3.11), python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, gir1.2-gtklayershell-0.1, python3-pywayland,
+ labwc, xwayland, swaylock, swayidle, mako-notifier, libnotify-bin, wlr-randr, wlopm, grim, slurp, wl-clipboard,
+ brightnessctl, mate-polkit, polkitd, pkexec, xdg-user-dirs, xdg-utils, libgtk-3-bin, desktop-file-utils,
+ thunar, gvfs, gvfs-backends, udisks2, xfce4-terminal, zenity, fonts-noto-core, adwaita-icon-theme,
+ network-manager, wireplumber, pipewire-audio, pipewire-bin, packagekit, packagekit-tools, ufw, lightdm, lightdm-gtk-greeter, gir1.2-lightdm-1, xserver-xorg
+Recommends: wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplays, blueman, network-manager-gnome,
+ gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
+Filename: pool/main/u/universe-os/universe-os_0.2.0_all.deb
+Size: 695792
+MD5sum: a1078a2e7a3e933db5fb08ac9c41734e
+SHA1: 62d70ed4463e3c964f5ae453dcbd62e437861863
+SHA256: 7288ffc664a0566d423ce1b735d52fca5f51d58f95dcc4041546dea63ec5146b
+SHA512: aad79e17baf02fcc385c5db93b4cef16c48781d7b8998c3342ebbf0dd0864c865e253d740ced731e40eacc426f23a4c5d67ed52c697633bcd92dc8ec64585574
+Homepage: https://github.com/ItsAMeFork/universe-os
+Description: Universe OS: een ruimtewereld als hoofdinterface
+ De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
+ softwarewinkel, controlecentrum, communicatie, gamehal), een compact
+ bedieningspaneel en een overzicht van geopende programma's met zoeken. Vensters
+ worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
+ ondersteuning voor Windows-programma's via Wine.
+
