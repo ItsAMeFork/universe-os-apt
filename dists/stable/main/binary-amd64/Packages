@@ -42,10 +42,10 @@ Recommends: wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplay
  gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
 Filename: pool/main/u/universe-os/universe-os_0.2.1_all.deb
 Size: 695828
-MD5sum: 395a66a7a311f7e8567dbc97652a473c
-SHA1: 7b836c3bdc115ffd875ee5280092c0f137722f65
-SHA256: 07899657f4142dc9bb0e50229228411c51ce863aa716d9f292848cab25043023
-SHA512: d2b58d041a2c2437ad4bc4c51a597eba815db0a66875ea725e432bff0ea4853d3406a39e08f34033ac6613a17359610e74091ce1ab85e11b3970aec2439adcd7
+MD5sum: df570958747ef42617bc1556fca5db08
+SHA1: 84ec3ec02bac62d9a39dec05882aa373c479f60b
+SHA256: b037ddb1d8e9a329626878216022a82f402e5346bf4e3aaa4711c1d21ac36fc4
+SHA512: f65f1fa9a4275539cc891c4f002a0f4d59cabdd7712c93051133fa9983cf29ff59641019da2655101d575cee6d253dfaa4c50a38118ffd7288e36de01a0f5ed2
 Homepage: https://github.com/ItsAMeFork/universe-os
 Description: Universe OS: een ruimtewereld als hoofdinterface
  De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
