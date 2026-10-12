@@ -166,3 +166,31 @@ Description: Universe OS: een ruimtewereld als hoofdinterface
  worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
  ondersteuning voor Windows-programma's via Wine.
 
+Package: universe-os
+Architecture: all
+Version: 0.2.9
+Priority: optional
+Section: x11
+Maintainer: Universe OS <73166182+ItsAMeFork@users.noreply.github.com>
+Installed-Size: 9112
+Depends: python3 (>= 3.11), python3-gi, curl, python3-gi-cairo, python3-cairo, gir1.2-gtk-3.0, gir1.2-vte-2.91, gir1.2-webkit2-4.1, gir1.2-gtklayershell-0.1, python3-pywayland, python3-cffi-backend,
+ labwc, xwayland, swaybg, gtklock, gtklock-userinfo-module, swaylock, swayidle, mako-notifier, libnotify-bin, wlr-randr, wlopm, grim, slurp, wl-clipboard,
+ brightnessctl, mate-polkit, polkitd, pkexec, xdg-user-dirs, xdg-utils, libgtk-3-bin, desktop-file-utils,
+ thunar, gvfs, gvfs-backends, udisks2, xfce4-terminal, zenity, fonts-noto-core, adwaita-icon-theme,
+ network-manager, wireplumber, pipewire-audio, pipewire-bin, packagekit, packagekit-tools, ufw, lightdm, lightdm-gtk-greeter, gir1.2-lightdm-1, xserver-xorg
+Recommends: recoll, poppler-utils, wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplays, blueman, network-manager-gnome,
+ gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
+Filename: pool/main/u/universe-os/universe-os_0.2.9_all.deb
+Size: 6367452
+MD5sum: 72bf4dbafd384175a805c739f1128da6
+SHA1: a43ecf9687356476f9757b55ba31d831d60153df
+SHA256: 451ceeee869be0c4c471f6c2fef8294d452c69ed73c75312324c0ce9508c72de
+SHA512: 656426dd64378d9c4cc85246f5c28c29c20c40611af1ffa37b87c5b4d082c652439fc15a897e746197346333a269f0ef3696922b99e6cdd2caa4fbd7783f0a6a
+Homepage: https://github.com/ItsAMeFork/universe-os
+Description: Universe OS: een ruimtewereld als hoofdinterface
+ De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
+ softwarewinkel, controlecentrum, communicatie, gamehal), een compact
+ bedieningspaneel en een overzicht van geopende programma's met zoeken. Vensters
+ worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
+ ondersteuning voor Windows-programma's via Wine.
+
