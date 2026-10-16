@@ -228,6 +228,36 @@ Description: Universe OS: een ruimtewereld als hoofdinterface
 
 Package: universe-os
 Architecture: all
+Version: 0.2.20
+Priority: optional
+Section: x11
+Maintainer: Universe OS <73166182+ItsAMeFork@users.noreply.github.com>
+Installed-Size: 10280
+Depends: python3 (>= 3.11), python3-gi, curl, python3-gi-cairo, python3-cairo, gir1.2-gtk-3.0, gir1.2-vte-2.91, gir1.2-webkit2-4.1, gir1.2-gtklayershell-0.1, python3-pywayland, python3-cffi-backend,
+ labwc, xwayland, swaybg, gtklock, gtklock-userinfo-module, swaylock, swayidle, mako-notifier, libnotify-bin, wlr-randr, wlopm, grim, slurp, wl-clipboard,
+ brightnessctl, mate-polkit, polkitd, pkexec, xdg-user-dirs, xdg-utils, libgtk-3-bin, desktop-file-utils,
+ thunar, gvfs, gvfs-backends, udisks2, xfce4-terminal, zenity, fonts-noto-core, adwaita-icon-theme,
+ network-manager, wireplumber, pipewire-audio, pipewire-bin, packagekit, packagekit-tools, ufw, lightdm, lightdm-gtk-greeter, gir1.2-lightdm-1, xserver-xorg,
+ python3-keyring, gir1.2-secret-1, gnome-keyring, libpam-gnome-keyring, python3-evdev, wtype, bubblewrap
+Recommends: recoll, poppler-utils, wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplays, blueman, network-manager-gnome,
+ python3-caldav,
+ gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
+Filename: pool/main/u/universe-os/universe-os_0.2.20_all.deb
+Size: 7200996
+MD5sum: f176c7e5027bfd3cbe1b20c0b26f3d15
+SHA1: d907187dae483d5811a3c3fabf5a77810a4b4582
+SHA256: ea6bcb08e35b6c5a3c58c2f31704f3540d0973f80fb42833602c82bf5d608813
+SHA512: 3e76ec71ee63f6c600235907873da4010f90bccba61a684770ae347c87db044d56d54521aca3d2e06c93eb94fd9651029e453b1bcedab383c33557d2712dec19
+Homepage: https://github.com/ItsAMeFork/universe-os
+Description: Universe OS: een ruimtewereld als hoofdinterface
+ De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
+ softwarewinkel, controlecentrum, communicatie, gamehal), een compact
+ bedieningspaneel en een overzicht van geopende programma's met zoeken. Vensters
+ worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
+ ondersteuning voor Windows-programma's via Wine.
+
+Package: universe-os
+Architecture: all
 Version: 0.2.2
 Priority: optional
 Section: x11
