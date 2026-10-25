@@ -4,7 +4,7 @@ Hash: SHA512
 Architectures: amd64
 Codename: test
 Components: main
-Date: Sun, 25 Oct 2026 15:58:13 +0000
+Date: Sun, 25 Oct 2026 15:58:16 +0000
 Label: Universe OS
 Origin: Universe OS
 Suite: test
@@ -22,8 +22,8 @@ SHA512:
  d523688865116454287f1c3c390f3308b4deecf419ebf1d57b9edebaaa3ab8ca8d15ec79655ea81b4169f21df5732c1c5355181a9ec7e769e545bf49024fa63c             5511 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQR0WqyykBBdbWHcClT8qmWQdP15gUCat4nFQAKCRBT8qmWQdP1
-5oyJAQDkfdr1SKXbQeTwdkqnGJ+EuQN0AC4UW1c/iV9Q4l3G9AEAtjWiFFfBowEt
-Dt6hqrDCl9mGjm/f1TfTa0cCYDFHDA4=
-=+dQA
+iHUEARYKAB0WIQQR0WqyykBBdbWHcClT8qmWQdP15gUCat4nGAAKCRBT8qmWQdP1
+5hnMAP92S2UgTdEtY4tyM3IZDmq+1CiR+tgbBvPNHcZfGOKWgwEAswQeHTHvLCVP
+/isZ1kAzDHF+ZB9a4Of2SykZ7DsWkwg=
+=iveg
 -----END PGP SIGNATURE-----
