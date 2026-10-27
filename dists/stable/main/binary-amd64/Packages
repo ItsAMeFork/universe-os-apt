@@ -1,3 +1,18 @@
+Package: universe-os-vergrendelknoppen
+Architecture: amd64
+Version: 0.3.0
+Priority: optional
+Section: x11
+Maintainer: Universe OS
+Depends: gtklock (>= 4), gtklock (<< 5), libgtk-3-0t64
+Filename: pool/main/u/universe-os/universe-os-vergrendelknoppen_0.3.0_amd64.deb
+Size: 3712
+MD5sum: ecf14c06f8f45d5fb5d5f8f599628926
+SHA1: 3c12179412b2ce6bd8b6989de8734e0e2cd635bb
+SHA256: 80f2885cd6040bb53ffee090446b386634ff871f05d3b8bb6754287c8fb6c069
+SHA512: 1fe23e5c5a7f6145ff96f3f90710528da3453478c33811a21fac9b7e6cb71c65835c451aa8afd564267084c6931cb5b134524e9e1bdb81c490d11eb63e40c426
+Description: Universe OS: knoppen Andere gebruiker en Afmelden op het vergrendelscherm
+
 Package: universe-os
 Architecture: all
 Version: 0.2.0
@@ -718,6 +733,36 @@ MD5sum: 72bf4dbafd384175a805c739f1128da6
 SHA1: a43ecf9687356476f9757b55ba31d831d60153df
 SHA256: 451ceeee869be0c4c471f6c2fef8294d452c69ed73c75312324c0ce9508c72de
 SHA512: 656426dd64378d9c4cc85246f5c28c29c20c40611af1ffa37b87c5b4d082c652439fc15a897e746197346333a269f0ef3696922b99e6cdd2caa4fbd7783f0a6a
+Homepage: https://github.com/ItsAMeFork/universe-os
+Description: Universe OS: een ruimtewereld als hoofdinterface
+ De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
+ softwarewinkel, controlecentrum, communicatie, gamehal), een compact
+ bedieningspaneel en een overzicht van geopende programma's met zoeken. Vensters
+ worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
+ ondersteuning voor Windows-programma's via Wine.
+
+Package: universe-os
+Architecture: all
+Version: 0.3.0
+Priority: optional
+Section: x11
+Maintainer: Universe OS <73166182+ItsAMeFork@users.noreply.github.com>
+Installed-Size: 12128
+Depends: python3 (>= 3.11), python3-gi, curl, python3-gi-cairo, python3-cairo, gir1.2-gtk-3.0, gir1.2-vte-2.91, gir1.2-webkit2-4.1, gir1.2-gtklayershell-0.1, python3-pywayland, python3-cffi-backend,
+ labwc, xwayland, swaybg, gtklock, gtklock-userinfo-module, swaylock, swayidle, mako-notifier, libnotify-bin, wlr-randr, x11-xserver-utils, wlopm, grim, slurp, wl-clipboard,
+ brightnessctl, mate-polkit, polkitd, pkexec, xdg-user-dirs, xdg-utils, libgtk-3-bin, desktop-file-utils,
+ thunar, gvfs, gvfs-backends, udisks2, xfce4-terminal, zenity, fonts-noto-core, adwaita-icon-theme,
+ network-manager, wireplumber, pipewire-audio, pipewire-bin, packagekit, packagekit-tools, ufw, lightdm, lightdm-gtk-greeter, gir1.2-lightdm-1, xserver-xorg,
+ python3-keyring, gir1.2-secret-1, gnome-keyring, libpam-gnome-keyring, python3-evdev, wtype, bubblewrap
+Recommends: universe-os-vergrendelknoppen, recoll, poppler-utils, wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplays, blueman, network-manager-gnome,
+ python3-caldav, espeak-ng,
+ gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
+Filename: pool/main/u/universe-os/universe-os_0.3.0_all.deb
+Size: 8840432
+MD5sum: 8ce861083b1b35864d2c7eb2af5ccdf1
+SHA1: b1a4c390f513bd3eb4e1910060229f208338cd0e
+SHA256: 36e846f5808f7ac84a441b47b1d75de5e4ef1c3d9ddd639bab08eb43b29dbf14
+SHA512: d32392c53d670647ff9f1ab18f10db445a804b5414814ed1cc502a415749418274d46b2a2a28028a3c36a1bff9f6775b24abba7e8e71f3710014fa0b376495d7
 Homepage: https://github.com/ItsAMeFork/universe-os
 Description: Universe OS: een ruimtewereld als hoofdinterface
  De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
