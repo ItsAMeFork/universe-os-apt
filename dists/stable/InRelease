@@ -4,26 +4,26 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 27 Oct 2026 08:57:34 +0000
+Date: Tue, 27 Oct 2026 08:57:39 +0000
 Label: Universe OS
 Origin: Universe OS
 Suite: stable
 MD5Sum:
- 281839c11fb76109e5226525d90ff220            53171 main/binary-amd64/Packages
- bc1a38c6e3649057464db9aa6f3f6abc             6603 main/binary-amd64/Packages.gz
+ 6c71afb561bbae1f16fab3007b2fc1ab            55978 main/binary-amd64/Packages
+ af3d0da8a56a018027f4b684ab913976             6969 main/binary-amd64/Packages.gz
 SHA1:
- 2225ff4cb1d899b5611a4347a7bc9a44b67f2267            53171 main/binary-amd64/Packages
- 96e2d71235835e6a693506fac28941a8ff342efe             6603 main/binary-amd64/Packages.gz
+ 60542a6c0cfe6ed61faf8285ae1585d4b43ad354            55978 main/binary-amd64/Packages
+ aba33df5696b126d607d498ca008c768b3b5073d             6969 main/binary-amd64/Packages.gz
 SHA256:
- d6d554d09cbb4e3f21021cde7ab4d245641b0735ee56695afe35d8d6fd9f4cbf            53171 main/binary-amd64/Packages
- 8a3e56f0cffdf9bb6b45fb8804293b3ff80c33e7c0d06b5d168e7d9cfe6957c8             6603 main/binary-amd64/Packages.gz
+ 409a5a9ec90367b79ef0ae878f454b0c1d29b610fe55c7efcf75cce3685887ec            55978 main/binary-amd64/Packages
+ 3cff856592584f1aeca961a852aade8960cf2fa0651164ff0bbe14a447810778             6969 main/binary-amd64/Packages.gz
 SHA512:
- e95320656560368151fc27838d33e28ba5f5def26585997a1883f3d532dcce82888ef398a42d83f8cd708de72309830df15e82587247c6760a7dd4e31b00899e            53171 main/binary-amd64/Packages
- a05219a1feaa5883cd5bb7efb6eafedf256d35d20f1d0d7d28989c7f8c766b88151f9895857f82619226ece0acce95ed53c8ab2a07eee2c6d456d5606e9636ab             6603 main/binary-amd64/Packages.gz
+ 4ca779ad6fce1071fd95542a2e7486a66d8037b44044b19f1d31b568ab025972289797e6c5c00e126fe344ec6928a50f8a7f732b861f4f0e85bad97967f80a26            55978 main/binary-amd64/Packages
+ 6930ee90363f3af70486ce5d165bb5a79673d44170f153126f6e811d23eebcf6d7b66ad9fa8b3d6d0ae4e2d1b495bd4c41f586c2c41edef709e1af62fa87c965             6969 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQR0WqyykBBdbWHcClT8qmWQdP15gUCauBnfgAKCRBT8qmWQdP1
-5iHQAP9oOrYPNgspsd56tOh5GM+19rqJGyFksB85YbZLcH5vRQEAuiiYGKlVWmxR
-98Oz9+owf20+B5IP+wp0A8gQnzz+mQY=
-=EwF/
+iHUEARYKAB0WIQQR0WqyykBBdbWHcClT8qmWQdP15gUCauBngwAKCRBT8qmWQdP1
+5or+AP40mSqL6PrNvxC8QuspRh/Y1zYZzvzMUCoMYylNNxb3DgD+PX3HIuI2qhu9
+Mx37aCy4zuEKm2kzCiyO2ViqwE4+awI=
+=TpAd
 -----END PGP SIGNATURE-----
