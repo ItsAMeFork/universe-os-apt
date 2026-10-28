@@ -816,3 +816,33 @@ Description: Universe OS: een ruimtewereld als hoofdinterface
  worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
  ondersteuning voor Windows-programma's via Wine.
 
+Package: universe-os
+Architecture: all
+Version: 0.3.2
+Priority: optional
+Section: x11
+Maintainer: Universe OS <73166182+ItsAMeFork@users.noreply.github.com>
+Installed-Size: 15664
+Depends: python3 (>= 3.11), python3-gi, curl, python3-gi-cairo, python3-cairo, gir1.2-gtk-3.0, gir1.2-vte-2.91, gir1.2-webkit2-4.1, gir1.2-gtklayershell-0.1, python3-pywayland, python3-cffi-backend,
+ labwc, xwayland, swaybg, gtklock, gtklock-userinfo-module, swaylock, swayidle, mako-notifier, libnotify-bin, wlr-randr, x11-xserver-utils, wlopm, grim, slurp, wl-clipboard,
+ brightnessctl, mate-polkit, polkitd, pkexec, xdg-user-dirs, xdg-utils, libgtk-3-bin, desktop-file-utils,
+ thunar, gvfs, gvfs-backends, udisks2, xfce4-terminal, zenity, fonts-noto-core, adwaita-icon-theme,
+ network-manager, wireplumber, pipewire-audio, pipewire-bin, packagekit, packagekit-tools, ufw, lightdm, lightdm-gtk-greeter, gir1.2-lightdm-1, xserver-xorg,
+ python3-keyring, gir1.2-secret-1, gnome-keyring, libpam-gnome-keyring, python3-evdev, wtype, bubblewrap
+Recommends: universe-os-vergrendelknoppen, recoll, poppler-utils, wine, wine64, msitools, gnome-software, gdebi, pavucontrol, wdisplays, blueman, network-manager-gnome,
+ python3-caldav, espeak-ng,
+ gnome-system-monitor, firefox-esr, mousepad, file-roller, atril, gnome-calculator
+Filename: pool/main/u/universe-os/universe-os_0.3.2_all.deb
+Size: 10654532
+MD5sum: 9bd73263515a191971699d91597f6de8
+SHA1: 75ec29a9f94725f9d6d2523fd1ed6e355c6e361c
+SHA256: 5b9d6671ba8c0986ac90acdc91f8a4c1d4946543ef0efe158367c3f4c6c85b84
+SHA512: 1ca36808907e4271fb2ef87117cacf502016793daa5688374d7dccc01fec5092c2430f2957a77215bffa18a5c6cac033ef5fb84cdee073482809d18b1d5170c2
+Homepage: https://github.com/ItsAMeFork/universe-os
+Description: Universe OS: een ruimtewereld als hoofdinterface
+ De Universe-shell toont de ruimtewereld met planeten (thuiswereld, applicaties,
+ softwarewinkel, controlecentrum, communicatie, gamehal), een compact
+ bedieningspaneel en een overzicht van geopende programma's met zoeken. Vensters
+ worden beheerd door de compositor labwc. Bevat ook het Controlecentrum en
+ ondersteuning voor Windows-programma's via Wine.
+
